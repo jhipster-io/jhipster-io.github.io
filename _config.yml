@@ -1,8 +1,8 @@
 safe:        true
 markdown: kramdown
 exclude: [node_modules, bower_components, vendor]
-url: https://jhipster.springdev.io
-github_repository_url: https://github.com/springdev-jhipster/springdev-jhipster.github.io
+url: https://jhipster.io
+github_repository_url: https://github.com/jhipster-io/jhipster-io.github.io
 kramdown:
   input: GFM
 gems:
